@@ -1,0 +1,53 @@
+Privacy Policy for Word Rush
+Effective Date: 2024-02-07
+
+1. Introduction
+
+This Privacy Policy describes how we, Romel Studios, collect, use, and disclose your personal information when you use our mobile game, Word Rush.
+
+2. Information We Collect
+
+We collect the following information from you when you use Word Rush:
+
+Username: This is used to identify you within the game and track your performance.
+Performance Data: This includes information about your gameplay, such as your score, level, and achievements. This data is collected anonymously through Google Analytics.
+We do not collect any personal information from children under the age of 13 without parental consent.
+
+3. How We Use Your Information
+
+We use the information we collect for the following purposes:
+
+To personalize your experience in the game.
+To analyze how users interact with the game.
+To improve the game and develop new features.
+We do not share your personal information with any third parties.
+
+4. Your Data Rights
+
+You have the following rights with respect to your personal information:
+
+Access: You can request access to the personal information we hold about you.
+Rectification: You can request that we correct any inaccurate or incomplete personal information we hold about you.
+Erasure: You can request that we erase your personal information.
+Restriction: You can request that we restrict the processing of your personal information.
+Objection: You can object to the processing of your personal information.
+To exercise any of these rights, please contact us at [your email address].
+
+5. Data Security
+
+We take reasonable steps to protect your personal information from unauthorized access, disclosure, alteration, or destruction. However, no internet or electronic transmission is completely secure, so we cannot guarantee the security of your information.
+
+6. Children's Privacy
+
+We do not knowingly collect personal information from children under the age of 13. If you are a parent or guardian and you learn that your child has provided us with personal information, please contact us. We will delete any such information from our systems.
+
+7. Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on our website. You are advised to review this Privacy Policy periodically for any changes.
+
+8. Contact Us
+
+If you have any questions about this Privacy Policy, please contact us at wordrushapp@gmail.com.
+
+Please note: This is a sample privacy policy and may need to be modified to fit the specific needs of your game. You should consult with an attorney to ensure that your privacy policy complies with all applicable laws and regulations.
+
