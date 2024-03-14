@@ -12,6 +12,9 @@ export default function Home() {
 
       <main>
         <Header title="Word Rush" />
+    <button>
+          <a href="mailto:wordrushapp@gmail.com">Contact us</a>
+        </button>
        
       </main>
 
